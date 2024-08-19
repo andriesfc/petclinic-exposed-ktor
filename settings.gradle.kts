@@ -3,7 +3,7 @@ pluginManagement {
 }
 
 
-rootProject.name = "kotlin-java-template"
+rootProject.name = "petclinic-exposed-ktor"
 
 include(":app")
 include(":commons")
